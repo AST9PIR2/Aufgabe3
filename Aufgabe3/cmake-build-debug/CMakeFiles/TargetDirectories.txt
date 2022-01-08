@@ -1,0 +1,13 @@
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_sort_test.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_xmas_sort_test.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_a_test.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_revers_string.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_frequency.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_string_test.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_pointer_tests.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_pointer.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_average.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_upper.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/CMakeFiles/Aufgabe3_mitschrift.dir

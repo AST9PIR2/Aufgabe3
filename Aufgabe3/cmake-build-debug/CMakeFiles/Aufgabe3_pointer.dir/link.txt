@@ -1,0 +1,1 @@
+/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe3_pointer.dir/pointer.c.o  -o Aufgabe3_pointer 

@@ -1,0 +1,1 @@
+/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe3_upper.dir/upper.c.o  -o Aufgabe3_upper 

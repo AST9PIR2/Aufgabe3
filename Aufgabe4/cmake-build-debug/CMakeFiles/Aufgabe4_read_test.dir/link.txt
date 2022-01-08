@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/Aufgabe4_read_test.dir/read_test.c.o  -o Aufgabe4_read_test 

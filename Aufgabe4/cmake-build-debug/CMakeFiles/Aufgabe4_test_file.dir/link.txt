@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/Aufgabe4_test_file.dir/test_file.c.o  -o Aufgabe4_test_file 

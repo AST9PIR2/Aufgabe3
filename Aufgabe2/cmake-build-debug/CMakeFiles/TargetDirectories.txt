@@ -1,0 +1,5 @@
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe2/cmake-build-debug/CMakeFiles/Aufgabe2_calculator.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe2/cmake-build-debug/CMakeFiles/Aufgabe2_prime.dir
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe2/cmake-build-debug/CMakeFiles/Aufgabe2_pyramid2.dir

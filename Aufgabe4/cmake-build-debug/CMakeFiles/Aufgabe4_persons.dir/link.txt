@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/Aufgabe4_persons.dir/persons.c.o  -o Aufgabe4_persons 

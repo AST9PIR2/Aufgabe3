@@ -1,0 +1,1 @@
+/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe2_pyramid2.c.dir/pyramid2.c.o  -o Aufgabe2_pyramid2.c 

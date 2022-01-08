@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.16)
+project(Aufgabe3 C)
+
+set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_FLAGS -Wall)
+set(CMAKE_C_FLAGS -Werror)
+
+add_executable(Aufgabe3_mitschrift mitschrift.c)
+add_executable(Aufgabe3_upper upper.c)
+add_executable(Aufgabe3_average average.c)
+add_executable(Aufgabe3_pointer_tests pointer_tests.c)
+add_executable(Aufgabe3_string_test string_test.c my_string.h my_string.c)
+add_executable(Aufgabe3_revers_string my_string.h revers_string.c)
+add_executable(Aufgabe3_frequency frequency.c)
+add_executable(Aufgabe3_pointer pointer.c)
+add_executable(Aufgabe3_a_test a_test.c)
+add_executable(Aufgabe3_xmas_sort_test xmas_sort.h xmas_sort_test.c xmas_sort.c)
+add_executable(Aufgabe3_sort_test sort_test.c)

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Aufgabe3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_sort_test">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_sort_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_sort_test"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_sort_test/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_sort_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_sort_test/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_xmas_sort_test">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_xmas_sort_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_xmas_sort_test"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_xmas_sort_test/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_xmas_sort_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_xmas_sort_test/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_a_test">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_a_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_a_test"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_a_test/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_a_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_a_test/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_revers_string">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_revers_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_revers_string"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_revers_string/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_revers_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_revers_string/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_frequency">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_frequency" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_frequency"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_frequency/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_frequency" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_frequency/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_string_test">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_string_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_string_test"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_string_test/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_string_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_string_test/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_pointer_tests">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_pointer_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_pointer_tests"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_pointer_tests/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_pointer_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_pointer_tests/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_pointer">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_pointer"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_pointer/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_average">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_average" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_average"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_average/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_average" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_average/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_upper">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_upper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_upper"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_upper/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_upper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_upper/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_mitschrift">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_mitschrift" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_mitschrift"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Aufgabe3_mitschrift/fast">
+				<Option output="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug/Aufgabe3_mitschrift" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aufgabe3_mitschrift/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/Pirmin.000/OneDrive\ -\ mci4me.at/Dokumente/Methoden\ der\ Softwareentwicklung/Aufgabe3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/a_test.c">
+			<Option target="Aufgabe3_a_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/average.c">
+			<Option target="Aufgabe3_average"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/frequency.c">
+			<Option target="Aufgabe3_frequency"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/mitschrift.c">
+			<Option target="Aufgabe3_mitschrift"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/my_string.c">
+			<Option target="Aufgabe3_string_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/my_string.h">
+			<Option target="Aufgabe3_revers_string"/>
+			<Option target="Aufgabe3_string_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/pointer.c">
+			<Option target="Aufgabe3_pointer"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/pointer_tests.c">
+			<Option target="Aufgabe3_pointer_tests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/revers_string.c">
+			<Option target="Aufgabe3_revers_string"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/sort_test.c">
+			<Option target="Aufgabe3_sort_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/string_test.c">
+			<Option target="Aufgabe3_string_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/upper.c">
+			<Option target="Aufgabe3_upper"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/xmas_sort.c">
+			<Option target="Aufgabe3_xmas_sort_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/xmas_sort.h">
+			<Option target="Aufgabe3_xmas_sort_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/xmas_sort_test.c">
+			<Option target="Aufgabe3_xmas_sort_test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe2_calculator.dir/calculator.c.o CMakeFiles/Aufgabe2_calculator.dir/operations.c.o  -o Aufgabe2_calculator 

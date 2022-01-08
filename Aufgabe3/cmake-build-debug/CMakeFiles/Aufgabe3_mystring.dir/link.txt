@@ -1,0 +1,1 @@
+/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe3_mystring.dir/string_test.c.o  -o Aufgabe3_mystring 
