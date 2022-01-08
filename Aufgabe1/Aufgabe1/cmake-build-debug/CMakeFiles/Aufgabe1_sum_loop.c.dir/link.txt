@@ -1,1 +1,0 @@
-/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe1_sum_loop.c.dir/sum_loop.c.o  -o Aufgabe1_sum_loop.c 
