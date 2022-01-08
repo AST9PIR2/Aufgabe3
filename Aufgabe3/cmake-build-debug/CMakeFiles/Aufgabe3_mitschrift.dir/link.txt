@@ -1,1 +1,0 @@
-/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe3_mitschrift.dir/mitschrift.c.o  -o Aufgabe3_mitschrift 

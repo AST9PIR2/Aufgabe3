@@ -1,1 +1,0 @@
-/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe3_revers_string.dir/revers_string.c.o  -o Aufgabe3_revers_string 

@@ -1,1 +1,0 @@
-/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe3_xmas_sort_test.dir/xmas_sort_test.c.o CMakeFiles/Aufgabe3_xmas_sort_test.dir/xmas_sort.c.o  -o Aufgabe3_xmas_sort_test 
