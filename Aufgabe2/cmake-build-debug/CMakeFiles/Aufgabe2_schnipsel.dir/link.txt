@@ -1,1 +1,0 @@
-/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe2_schnipsel.dir/schnipsel.c.o  -o Aufgabe2_schnipsel 

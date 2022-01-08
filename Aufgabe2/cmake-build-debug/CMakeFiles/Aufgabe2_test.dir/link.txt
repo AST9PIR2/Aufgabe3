@@ -1,1 +1,0 @@
-/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe2_test.dir/test.c.o  -o Aufgabe2_test 

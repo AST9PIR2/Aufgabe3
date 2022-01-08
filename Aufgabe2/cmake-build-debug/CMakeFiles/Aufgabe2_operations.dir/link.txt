@@ -1,1 +1,0 @@
-/usr/bin/gcc -Werror -g   CMakeFiles/Aufgabe2_operations.dir/operations.c.o  -o Aufgabe2_operations 
