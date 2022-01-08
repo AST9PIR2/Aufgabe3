@@ -1,1 +1,0 @@
-/usr/bin/gcc -g   CMakeFiles/Aufgabe4_calculator.dir/calculator.c.o CMakeFiles/Aufgabe4_calculator.dir/operations.c.o  -o Aufgabe4_calculator 

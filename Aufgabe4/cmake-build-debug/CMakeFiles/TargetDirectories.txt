@@ -1,8 +1,0 @@
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/Aufgabe4_calculator.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/Aufgabe4_read_test.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/Aufgabe4_person_1.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/Aufgabe4_persons.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/Aufgabe4_test.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/cmake-build-debug/CMakeFiles/Aufgabe4_intergers.dir

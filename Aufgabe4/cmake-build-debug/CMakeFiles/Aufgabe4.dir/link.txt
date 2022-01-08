@@ -1,1 +1,0 @@
-/usr/bin/gcc -g   CMakeFiles/Aufgabe4.dir/integers.c.o  -o Aufgabe4 
