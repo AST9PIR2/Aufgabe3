@@ -13,7 +13,8 @@ struct person_data_read_test{
 
 int main() {
 
-    FILE *datei = fopen("/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/persons_input.txt","r");
+    FILE *datei = fopen("/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/"
+                        "Methoden der Softwareentwicklung/Aufgabe4/persons_input.txt","r");
 
     //Check if file exists
     if (datei == NULL) {

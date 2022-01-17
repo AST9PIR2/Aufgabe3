@@ -7,14 +7,15 @@ struct person_data{
     unsigned int age;
     struct hobby {
         char hobby[50];
-    }hobby[5];
+    }hobby[4];
 
 } id[21];
 
 int main() {
 
     //Open text file
-    FILE *datei = fopen("/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe4/persons_input.txt","r");
+    FILE *datei = fopen("/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/"
+                        "Methoden der Softwareentwicklung/Aufgabe4/persons_input.txt","r");
 
     //Check if file exists
     if (datei == NULL) {
@@ -28,9 +29,10 @@ int main() {
 
     //Read from file and store data in structure
     while (fgets( buffer, 255 , datei) != NULL) {
-        sscanf(buffer, "%49[^;];%49[^;];%i;%49[^,\n],%49[^,\n],%49[^,\n],%49[^,\n],%49[^,\n]", id[counter].name, id[counter].surname,
-               & id[counter].age, id[counter].hobby[0].hobby,id[counter].hobby[1].hobby,id[counter].hobby[2].hobby,
-               id[counter].hobby[3].hobby,id[counter].hobby[4].hobby);
+        sscanf(buffer, "%49[^;];%49[^;];%i;%49[^,\n],%49[^,\n],%49[^,\n],%49[^,\n],%49[^,\n]",
+               id[counter].name, id[counter].surname, & id[counter].age, id[counter].hobby[0].hobby,
+               id[counter].hobby[1].hobby,id[counter].hobby[2].hobby, id[counter].hobby[3].hobby,
+               id[counter].hobby[4].hobby);
         fflush(datei);
         //Overflow protection, ignore any line after 20 lines read
         if (counter > 19) {
