@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/Aufgabe6_time_test.dir/time_test.c.o  -o Aufgabe6_time_test 

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Aufgabe6" targetName="Aufgabe6_time_test" />
+      <config projectName="Aufgabe6" targetName="Aufgabe6_products" />
+      <config projectName="Aufgabe6" targetName="Aufgabe6_attendance_test" />
+      <config projectName="Aufgabe6" targetName="Aufgabe6_attendance" />
+      <config projectName="Aufgabe6" targetName="Aufgabe6_snow" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbe936be-b2cc-4e2b-bbe4-794f9e431748" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/../Aufgabe1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgabe1/.idea/Aufgabe1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgabe1/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgabe1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgabe1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Aufgabe6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendance.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendance_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attendance_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Aufgabe6.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Aufgabe6_attendance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Aufgabe6_attendance_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Aufgabe6_products" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Aufgabe6_snow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Aufgabe6_time_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/attendance.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/attendance_test.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/products.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir/snow.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir/time_test.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snow_data/Ischgl_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webinar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/.idea/Klausurvorbereitung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/3.16.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/Klausurvorbereitung.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/read_file.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klausurvorbereitung/spielwiese.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="243dx6FgdGMum956FCD9u9VGEok" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Aufgabe6_snow">
+    <configuration name="Aufgabe6_attendance" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aufgabe6" TARGET_NAME="Aufgabe6_attendance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aufgabe6" RUN_TARGET_NAME="Aufgabe6_attendance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe6_attendance_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aufgabe6" TARGET_NAME="Aufgabe6_attendance_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aufgabe6" RUN_TARGET_NAME="Aufgabe6_attendance_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe6_products" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aufgabe6" TARGET_NAME="Aufgabe6_products" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aufgabe6" RUN_TARGET_NAME="Aufgabe6_products">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe6_snow" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aufgabe6" TARGET_NAME="Aufgabe6_snow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aufgabe6" RUN_TARGET_NAME="Aufgabe6_snow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe6_time_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aufgabe6" TARGET_NAME="Aufgabe6_time_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aufgabe6" RUN_TARGET_NAME="Aufgabe6_time_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Aufgabe6_attendance" />
+      <item itemvalue="CMake Application.Aufgabe6_attendance_test" />
+      <item itemvalue="CMake Application.Aufgabe6_products" />
+      <item itemvalue="CMake Application.Aufgabe6_snow" />
+      <item itemvalue="CMake Application.Aufgabe6_time_test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbe936be-b2cc-4e2b-bbe4-794f9e431748" name="Changes" comment="" />
+      <created>1642863447893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642863447893</updated>
+      <workItem from="1642863449511" duration="40031000" />
+      <workItem from="1643304488886" duration="1187000" />
+      <workItem from="1643312104286" duration="1491000" />
+      <workItem from="1643354461687" duration="2000" />
+      <workItem from="1643384724585" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/products.c</url>
+          <line>54</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/products.c</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/products.c</url>
+          <line>64</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/products.c</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/attendance_test.c</url>
+          <line>102</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

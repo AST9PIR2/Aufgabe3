@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/Klausurvorbereitung_read_file.dir/read_file.c.o  -o Klausurvorbereitung_read_file 

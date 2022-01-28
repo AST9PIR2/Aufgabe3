@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/Aufgabe6_snow.dir/snow.c.o  -o Aufgabe6_snow 
