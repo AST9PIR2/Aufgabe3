@@ -1,6 +1,0 @@
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Klausurvorbereitung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Klausurvorbereitung/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_sort.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_read_file.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_spielwiese.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Klausurvorbereitung/cmake-build-debug/CMakeFiles/Klausurvorbereitung_main.dir
