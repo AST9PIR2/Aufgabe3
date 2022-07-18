@@ -1,1 +1,0 @@
-/usr/bin/gcc -g   CMakeFiles/Aufgabe6_attendance_test.dir/attendance_test.c.o  -o Aufgabe6_attendance_test 

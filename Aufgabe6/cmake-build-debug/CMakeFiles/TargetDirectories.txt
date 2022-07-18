@@ -1,7 +1,0 @@
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe6/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe6/cmake-build-debug/CMakeFiles/Aufgabe6_attendance_test.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe6/cmake-build-debug/CMakeFiles/Aufgabe6_snow.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe6/cmake-build-debug/CMakeFiles/Aufgabe6_products.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe6/cmake-build-debug/CMakeFiles/Aufgabe6_time_test.dir
-/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/Methoden der Softwareentwicklung/Aufgabe6/cmake-build-debug/CMakeFiles/Aufgabe6_attendance.dir

@@ -1,1 +1,0 @@
-/usr/bin/gcc -g   CMakeFiles/Aufgabe6.dir/main.c.o  -o Aufgabe6 
